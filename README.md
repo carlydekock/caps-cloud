@@ -2,7 +2,7 @@
 
 ## Author: Carly Dekock
 
-- [Link to GitHub PR](https://github.com/carlydekock/caps-cloud/pull/1)
+- [Link to GitHub PR](https://github.com/carlydekock/caps-cloud/pull/2)
 
 - [SQS DOCS](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/APIReference/API_ReceiveMessage.html)
 
@@ -63,4 +63,4 @@ __Drivers:__
 
 ## UML
 
-![uml](assets/UML.png)
+![uml](/assets/UML.png)
